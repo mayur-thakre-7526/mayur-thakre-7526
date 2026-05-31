@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Mayur Thakre 👋
 
-<!--
-**mayur-thakre-7526/mayur-thakre-7526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- HTML
+- CSS
+- JavaScript
+
+🚀 Goal:
+- Become a skilled Software Engineer
+- Crack top product-based companies
+- Build strong development and DSA skills
+
+---
+
+## Frontend Practice Projects
+
+| Project | Live Demo | Source Code |
+|----------|----------|----------|
+| Spotify Clone | [Live Demo](https://mayur-thakre-7526.github.io/spotify-clone-html-css/) | [Repository](https://github.com/mayur-thakre-7526/spotify-clone-html-css) |
+
+---
+
+## Current Learning Roadmap
+
+- HTML ✅
+- CSS ✅
+- JavaScript 🔄
+- React ⏳
+- DSA in Java ⏳
+
+---
+
+## Connect With Me
+
+- LinkedIn: (Add your LinkedIn profile link here)
+
+---
+
+Building projects consistently and improving every day 🚀
