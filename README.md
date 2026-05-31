@@ -36,7 +36,7 @@
 
 ## Connect With Me
 
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: (www.linkedin.com/in/mayur-thakre)
 
 ---
 
