@@ -2,17 +2,36 @@
 
 ## About Me
 
-🎓 B.Tech CSE Student
+🎓 Computer Science Engineering student at Bansal Institute of Science and Technology, Bhopal.
 
-💻 Currently learning:
-- HTML
-- CSS
-- JavaScript
+💻 Interested in Full-Stack Development, Backend Engineering, and Data Structures & Algorithms.
 
-🚀 Goal:
-- Become a skilled Software Engineer
-- Crack top product-based companies
-- Build strong development and DSA skills
+### Technical Skills
+- **Languages:** Java, JavaScript
+- **Frontend:** HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub
+- **Integrations:** Cloudinary, Mapbox
+
+
+### Featured Project
+**Wanderlust — Full-Stack Travel Listing Application**
+- CRUD operations and listing management
+- Authentication, authorization, and owner-based access control
+- Image uploads with Cloudinary
+- Location visualization with Mapbox
+- Reviews, ratings, and error handling
+
+🔗 [Repository](https://github.com/mayur-thakre-7526/wanderlust-project)  
+🌐 [Live Demo](https://wanderlust-project-myza.onrender.com)
+
+### Coding Profiles
+- [LeetCode](https://leetcode.com/u/mayurthakre7526/)
+- [Codolio](https://codolio.com/profile/Mayur_Thakre)
+- [LinkedIn](https://www.linkedin.com/in/mayur-thakre/)
+
+Currently strengthening my backend development skills and learning SQL/PostgreSQL while continuing to practice DSA in Java.
 
 ---
 
@@ -27,21 +46,3 @@
 | Todo App | [Live Demo](https://mayur-thakre-7526.github.io/todo-app/) | [Repository](https://github.com/mayur-thakre-7526/todo-app) |
 
 ---
-
-## Current Learning Roadmap
-
-- HTML ✅
-- CSS ✅
-- JavaScript 🔄
-- React ⏳
-- DSA in Java ⏳
-
----
-
-## Connect With Me
-
-- LinkedIn: (www.linkedin.com/in/mayur-thakre)
-
----
-
-Building projects consistently and improving every day 🚀
