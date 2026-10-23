@@ -44,5 +44,3 @@ Currently strengthening my backend development skills and learning SQL/PostgreSQ
 | Spotify Clone | [Live Demo](https://mayur-thakre-7526.github.io/spotify-clone-html-css/) | [Repository](https://github.com/mayur-thakre-7526/spotify-clone-html-css) |
 | Simon Says Game | [Live Demo](https://mayur-thakre-7526.github.io/simon-says-game/) | [Repository](https://github.com/mayur-thakre-7526/simon-says-game) |
 | Todo App | [Live Demo](https://mayur-thakre-7526.github.io/todo-app/) | [Repository](https://github.com/mayur-thakre-7526/todo-app) |
-
----
